@@ -1,6 +1,6 @@
 [submodule "SiriAuth"]
-                   path = SiriAuth
-                   url = git://github.com/StanTheRipper/SiriAuth
+	path = SiriAuth
+	url = git://github.com/StanTheRipper/SiriAuth.git
 [submodule "AuthGrabber"]
-                   path = AuthGrabber
-                   url = git://github.com/StanTheRipper/AuthGrabber
+	path = AuthGrabber
+	url = git://github.com/StanTheRipper/AuthGrabber.git
